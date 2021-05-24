@@ -1,30 +1,24 @@
-# Hello Node
+# Custom AI Chatbot For Discord
+# Make your bot *ALIVE* using this chatbot
 
-[Node.js](https://nodejs.org/en/about/) is a popular runtime that lets you run JavaScript on the server instead of in a browser. This project uses the [Fastify](https://www.fastify.io/) framework to explore basic templating with [Handlebars](https://handlebarsjs.com/) and submitting data using forms and querystrings.
+Before starting, make sure you have **[NODE.JS](https://www.nodejs.org/en)** installed.
+![image](https://user-images.githubusercontent.com/49114258/113098549-3de0a380-9216-11eb-97f4-d44fa7b65ef3.png)
 
-## What's in this project?
+# HOW TO USE
+1. **Just download this repository as zip**
+2. Run **Install-modules.bat** to install the necessary modules for the project. This should create a folder called **Node Modules**.
+3. After that you can just delete **Install-modules.bat** when the CMD window closes.
+4. Edit the **config.js** file.
+5. Ensure that you have put your **TOKEN**, **CHANNEL ID**, and **BOT NAME** in the file.
+6. Get your **API KEY** for the chatbot from [here](https://api.snowflakedev.xyz/)
+7. Run the **run.bat** file.
 
-← `README.md`: That’s this file, where you can tell people what your cool website does and how you built it.
+and that's it!
 
-← `public/style.css`: The styling rules for your pages and posts.
+screenshot:
+![image](https://user-images.githubusercontent.com/49114258/113037195-c4fc3000-91b2-11eb-823b-d54fef199871.png)
 
-← `server.js`: The main server script for your new site.
 
-← `src/`: This folder holds the main template for your site along with some basic data files.
+Please subscribe to [xZyn](https://www.youtube.com/xzynn?sub_confirmation=1) on YouTube if this helped you out.
 
-### Working in the `src/` folder 📁
-
-← `src/pages/index.hbs`: This is the main page template for your site.
-
-← `src/colors.json`: A collection of CSS color names. We use this to pick a random color, and to match searches against color names.
-
-← `src/seo.json`: When you're ready to share your new site or add a custom domain, change SEO/meta settings in here.
-
-![Glitch](https://cdn.glitch.com/a9975ea6-8949-4bab-addb-8a95021dc2da%2FLogo_Color.svg?v=1602781328576)
-
-## You built this with Glitch!
-
-[Glitch](https://glitch.com) is a friendly community where millions of people come together to build web apps and websites.
-
-- Need more help? [Check out our Help Center](https://help.glitch.com/) for answers to any common questions.
-- Ready to make it official? [Become a paid Glitch member](https://glitch.com/pricing) to boost your app with private sharing, more storage and memory, domains and more.
+This project is powered by [Snowflake API](https://api.snowflakedev.xyz/) by [@Snowflake107](https://github.com/Snowflake107)
