@@ -4,6 +4,13 @@ const config = require("./config.js");
 
 client.on('ready', () => {
     console.log(`${client.user.tag} is locked and loaded.`)
+   client.user.setPresence({
+        game: {
+            name: 'Fortnite with Ninja',
+            type: "Playing",
+            url: "https://discordapp.com/"
+        }
+    });
 })
 
 client.on("message", (message) => {
